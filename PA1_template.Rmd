@@ -3,6 +3,7 @@ title: "PA1_template.Rmd"
 author: "Rhowell"
 date: '2022-07-29'
 output: html_document
+keep_md: true
 ---
 
 ```{r setup, include=FALSE}
